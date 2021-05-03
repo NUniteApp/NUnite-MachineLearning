@@ -9,6 +9,8 @@ The document titled 'KV6002 Team Project and Professionalism Assignment 2 Stakeh
 
 The 'profanity.csv.' file contains a sample dataset that I used to train the machine learning model on Microsoft Azure. The dataset contains a sample size of 30 text posts that are labeled as inappropriate and appropriate.
 
+The 'Database Schema.io' and 'Database Schema.png' files contain the database design that I produced for the database system at the beginning of the project. The .io filetype file can be opened on DrawIO or similar software.
+
 My contribution to the Front-End Development will be found in the app folder itself. I contributed to the Report Page, the Post Options Page, the radio plugins and the function linking a Post to the Post Options Page.
 
 My contribution to the Machine Learning can be accessed on Microsoft Azure Machine Learning. However, I cannot export it due to the complexity of Azure Machine Learning. I am available to demonstrate it in the Assignment 2 demo and my group members and supervisor can vouch for me working on my Machine Learning subsystem for several weeks.
